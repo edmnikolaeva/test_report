@@ -4,7 +4,7 @@
 
 ---
 
-### 👉 [View Test Report](https://github.com/edmnikolaeva/test_report/blob/main/%D0%9F%D0%9C%D0%98.pdf)
+### 👉 [Test Report](https://github.com/edmnikolaeva/test_report/blob/main/%D0%9F%D0%9C%D0%98.pdf)
 
 ---
 
